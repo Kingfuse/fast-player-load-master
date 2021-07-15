@@ -6,4 +6,4 @@ Reduce player loading times ("gray blobs"). Makes all players look the same so c
 
 - To make weapons visible, comment out or remove the weapon line: `//event.weapon = 0;'
  
-Ps teralove Autor
+ Ps: teralove Autor
